@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+supabase
+transformers
+sentence-transformers
+torch
+accelerate
